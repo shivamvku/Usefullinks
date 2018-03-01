@@ -1,0 +1,20 @@
+
+
+How to submit a package to PyPI
+======================================================
+
+http://peterdowns.com/posts/first-time-with-pypi.html
+
+
+======================================================
+
+
+
+Dive Into Python 3 
+
+=================================================================
+http://www.diveintopython3.net/table-of-contents.html#packaging
+==================================================================
+
+
+

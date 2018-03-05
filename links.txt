@@ -18,3 +18,4 @@ http://www.diveintopython3.net/table-of-contents.html#packaging
 
 
 
+http://greenteapress.com/wp/think-python-2e/

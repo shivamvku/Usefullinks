@@ -19,3 +19,7 @@ http://www.diveintopython3.net/table-of-contents.html#packaging
 
 
 http://greenteapress.com/wp/think-python-2e/
+
+
+
+https://larsbergqvist.wordpress.com/2017/03/02/influxdb-and-grafana-for-sensor-time-series/
